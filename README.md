@@ -53,3 +53,6 @@ zuul.routes.hello-client.path=/client/**
 zuul.routes.hello-service.serviceId=HELLO-CLIENT
 - > Add EnableDiscoveryClient and EnableZuulProxy annotation in your Application class.	
 - > Finally run the application and if want to check your application hit the url http://localhost:8073/api/client/rest/hello/client or http://localhost:8073/api/service/rest/hello/server
+
+
+file:///D:/backup/Siddharth/test/Microservice/Micorservice_Communiation.jpg
